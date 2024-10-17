@@ -1,2 +1,2 @@
 # -Synchronous-Counter-and-Register
-Design of Registers and Synchronous Counters using SCL 180nm technology
+The aim is to design and analyse 4-bit Serial In Serial Out (SISO) shift register, 4-bit Ring counter as well as 4-bit Johnson counter using Cadence SCL 180nm technology. Firstly, we designed a positive edge triggered Data Flipflop (D - Flipflop) via transmission gates in master - slave configuration. The main tasks include schematic design and  Pre-layout simulation.
